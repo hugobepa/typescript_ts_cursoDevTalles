@@ -1,0 +1,4 @@
+powershell administativo: 
+npm install -g typescript
+tsc --versión
+tsc -w
